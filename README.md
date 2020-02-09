@@ -1,2 +1,2 @@
 # google_search
-test for tests
+This test open Google front page
